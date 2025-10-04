@@ -43,7 +43,7 @@ const navigationItems = [
     icon: Info,
     items: [
       { title: "About", href: "/about" },
-      { title: "Mission & Vision", href: "/about/mission-vision" },
+      { title: "Mission & Vision", href: "/about/mission-vission" },
       { title: "Teachers Panel", href: "/about/teachers" },
       { title: "Committee", href: "/about/committee" },
     ],
